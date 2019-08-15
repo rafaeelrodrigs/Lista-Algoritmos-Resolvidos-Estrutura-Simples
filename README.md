@@ -1,3 +1,6 @@
+          LISTA DE EXERCÍCIO - ESTRUTURA SIMPLES - LISTA 1
+  
+
 1. Faça um programa que receba dois números, calcule e mostre a
 subtração do primeiro pelo segundo.
 2. Faça um programa que receba três números, calcule e mostre a
